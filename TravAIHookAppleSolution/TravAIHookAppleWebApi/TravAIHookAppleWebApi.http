@@ -1,0 +1,6 @@
+@TravAIHookAppleWebApi_HostAddress = http://localhost:5014
+
+GET {{TravAIHookAppleWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

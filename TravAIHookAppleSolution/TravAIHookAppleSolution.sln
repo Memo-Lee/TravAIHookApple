@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravAIHookAppleWebApi", "TravAIHookAppleWebApi\TravAIHookAppleWebApi.csproj", "{3944F870-530A-4180-9DBF-3DFF2E8C12BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3944F870-530A-4180-9DBF-3DFF2E8C12BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3944F870-530A-4180-9DBF-3DFF2E8C12BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3944F870-530A-4180-9DBF-3DFF2E8C12BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3944F870-530A-4180-9DBF-3DFF2E8C12BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F4E879B-34A0-4DFF-91BB-76CA65CC7FFE}
+	EndGlobalSection
+EndGlobal

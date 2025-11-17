@@ -1,5 +1,6 @@
 ﻿using System;
 using TravAIHookAppleWebApi.Data;
+using TravAIHookAppleWebApi.Data.Entities;
 
 namespace TravAIHookAppleWebApi.Middlewares
 {
